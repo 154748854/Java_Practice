@@ -10,6 +10,7 @@ class Derived extends Base{
     public Derived(int a) {
         super(a);
         System.out.println("B");
+
     }
 }
 
